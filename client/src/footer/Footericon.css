@@ -1,0 +1,20 @@
+svg:hover {
+  transform: scale(2.05);
+}
+svg {
+  transition: transform 0.5s;
+}
+
+/* h6:hover {
+  transform: scale(1.2);
+}
+h6 {
+  transition: transform 0.5s;
+} */
+
+.copyright:hover {
+  transform: scale(1.2);
+}
+.copyright {
+  transition: transform 0.5s;
+}

@@ -1,0 +1,13 @@
+.navbar-brand:hover {
+  transform: scale(1.02);
+}
+.navbar-brand {
+  transition: transform 0.5s;
+}
+
+/* .nav-link:hover {
+  transform: scale(1.15);
+}
+.nav-link {
+  transition: transform 0.5s;
+} */
